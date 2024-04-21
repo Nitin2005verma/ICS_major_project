@@ -28,3 +28,4 @@ Building this text editor wasn't just about coding; it was an activity that help
 ## Gratitude!
 We extend gratitude to our Instructors, who got us this opportunity to interact with our peers. It was fun as well as challenging at the same time, But consistent guidance from the course instructor and all the the Teachings assistants (TAs) made our journey smoother.
 
+![221491](https://github.com/Nitin2005verma/ICS_major_project/assets/163852941/fcc0aa7b-e1a2-40f2-9567-2669af3aa5d6)
