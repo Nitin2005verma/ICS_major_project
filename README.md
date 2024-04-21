@@ -27,6 +27,7 @@ Building this text editor wasn't just about coding; it was an activity that help
 
 ## Links to Our Github Accounts
 - [Nitin Verma](https://github.com/Nitin2005verma/ICS_major_project)
+- [Agastya Singh](https://github.com/agastya123singh)
 
 ## Gratitude!
 We extend gratitude to our Instructors, who got us this opportunity to interact with our peers. It was fun as well as challenging at the same time, But consistent guidance from the course instructor and all the the Teachings assistants (TAs) made our journey smoother.
