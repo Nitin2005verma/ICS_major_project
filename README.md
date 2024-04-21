@@ -1,4 +1,5 @@
-# Welcome to Our Text Editor Project!
+# Welcome to Our Project!
+![project title_final](https://github.com/Nitin2005verma/ICS_major_project/assets/163852941/99a11e2a-f7bf-4c54-b105-258ced043266)
 
 ## Introduction
 In our **Introduction to Computer Science course (CSL1010)**, we set out to create a cool text editor using C programming. Our team consisting of three members joined forces to build a tool that's not the general text editor you use.
@@ -26,3 +27,4 @@ Building this text editor wasn't just about coding; it was an activity that help
 
 ## Gratitude!
 We extend gratitude to our Instructors, who got us this opportunity to interact with our peers. It was fun as well as challenging at the same time, But consistent guidance from the course instructor and all the the Teachings assistants (TAs) made our journey smoother.
+
