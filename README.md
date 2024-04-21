@@ -25,6 +25,9 @@ Here's what our text editor can do:
 ## Our Journey
 Building this text editor wasn't just about coding; it was an activity that helped us building team spirit and work together towards a concentrated goal. We had to brainstorm ideas, look for possible and effective solutiions.
 
+## Links to Our Github Accounts
+- [Nitin Verma](https://github.com/Nitin2005verma/ICS_major_project)
+
 ## Gratitude!
 We extend gratitude to our Instructors, who got us this opportunity to interact with our peers. It was fun as well as challenging at the same time, But consistent guidance from the course instructor and all the the Teachings assistants (TAs) made our journey smoother.
 
