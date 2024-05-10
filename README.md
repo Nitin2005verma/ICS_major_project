@@ -1,17 +1,14 @@
-# Welcome to Our Project!
+# Welcome to My Project!
 ![project title_final](https://github.com/Nitin2005verma/ICS_major_project/assets/163852941/99a11e2a-f7bf-4c54-b105-258ced043266)
 
 ## Introduction
-In our **Introduction to Computer Science course (CSL1010)**, we set out to create a cool text editor using C programming. Our team consisting of three members joined forces to build a tool that's not the general text editor you use.
-Meet our Team
-- Nitin Verma
-- Agastya Singh, and
-- Kukatlapalli William Samuel
-## Our Vision
+In My **Introduction to Computer Science course (CSL1010)**, I set out to create a cool text editor using C programming. I built a tool that's not the general text editor you use.
+
+## Vision
 Imagine a text editor that does more than just basic stuff. We wanted to make a tool that's handy for different sorts of tasks, from simple word counting to fancy distribution analysis.
 
 ## Features Highlights
-Here's what our text editor can do:
+Here's what My text editor can do:
 - **Word and Line Counting**: Need to know how many words or lines in your text file? Our editor's got your back.
 - **Emoji Fun**: Make your text files look attractive by easily adding emojis wherever you want.
 - **Word Counting**: Quickly find out how many times a word appears in your file.
@@ -27,9 +24,9 @@ Building this text editor wasn't just about coding; it was an activity that help
 
 ## Links to Our Github Accounts
 - [Nitin Verma](https://github.com/Nitin2005verma/ICS_major_project)
-- [Agastya Singh](https://github.com/agastya123singh)
 
 ## Gratitude!
 We extend gratitude to our Instructors, who got us this opportunity to interact with our peers. It was fun as well as challenging at the same time, But consistent guidance from the course instructor and all the the Teachings assistants (TAs) made our journey smoother.
+                         THANK YOU !
+![tenor](https://github.com/Nitin2005verma/ICS_major_project/assets/163852941/ebeb2d28-2d66-4e66-ba36-0d2e9247feab)
 
-![221491](https://github.com/Nitin2005verma/ICS_major_project/assets/163852941/fcc0aa7b-e1a2-40f2-9567-2669af3aa5d6)
